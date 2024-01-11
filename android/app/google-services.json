@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082700386318",
+    "project_id": "qatys-app-db817",
+    "storage_bucket": "qatys-app-db817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082700386318:android:e1302d1d90e626a5226c5f",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrC5GoqSdypvt_fHfEdiar2eI4ic6MLgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
