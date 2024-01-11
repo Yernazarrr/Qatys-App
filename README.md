@@ -1,3 +1,4 @@
-# test_app
+# Qatys App
+# IITU Diploma Project
 
-A new Flutter project.
+  Qatys App mobile application on Dart/Flutter, where you can booking sports foregrounds in your city.
